@@ -13,3 +13,5 @@ keep more energy to find the code word by python first and setup some little app
 # more things need to be learned  on 20240124
 
 try to login in github during working days.
+
+# Visit xiaolai_ everyone can learen english well.
